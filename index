@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Shehab Designer | Visual Identity, Branding and Print Design</title>
+<meta name="description" content="Shehab Designer is an independent studio for visual identity, branding, print and graphic design.">
+<meta name="theme-color" content="#10241e">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400&family=Newsreader:opsz,wght@6..72,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="hd" id="hd">
+  <div class="wrap">
+    <a class="logo" href="#top" aria-label="Shehab Designer, home">Shehab Designer</a>
+    <button class="menu" id="menu" aria-expanded="false" aria-controls="nav">Menu</button>
+    <nav id="nav" aria-label="Primary">
+      <ul>
+        <li><a href="#work">Work</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#studio">Studio</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+<section class="hero" id="top">
+  <div class="wrap">
+    <div class="hero-copy">
+      <h1><span class="ln"><span>Design that</span></span><span class="ln"><span>holds its shape.</span></span></h1>
+      <p>Shehab Designer is an independent studio for visual identity, branding and print. Every project is made to look right for years, not seasons.</p>
+      <div class="cta">
+        <a class="btn" href="#work">View selected work</a>
+        <a class="tlink" href="#contact">Start a project</a>
+      </div>
+    </div>
+    <svg class="dial" viewBox="0 0 400 400" aria-hidden="true" focusable="false">
+      <path class="dr" pathLength="1" d="M2 26V2h24M398 26V2h-24M2 374v24h24M398 374v24h-24"/>
+      <circle class="dr" pathLength="1" cx="200" cy="200" r="190"/>
+      <circle class="dr" pathLength="1" cx="200" cy="200" r="140"/>
+      <circle class="dr" pathLength="1" cx="200" cy="200" r="80"/>
+      <line class="dr" pathLength="1" x1="200" y1="8" x2="200" y2="392"/>
+      <line class="dr" pathLength="1" x1="8" y1="200" x2="392" y2="200"/>
+      <circle class="tk" pathLength="120" cx="200" cy="200" r="172"/>
+      <circle class="tk major" pathLength="12" cx="200" cy="200" r="178"/>
+      <g class="sweep"><line x1="200" y1="200" x2="200" y2="30"/><circle cx="200" cy="30" r="3.5"/></g>
+      <circle class="hub" cx="200" cy="200" r="4"/>
+      <g class="bar"><circle cx="300" cy="388" r="4" fill="#2d9cc4"/><circle cx="314" cy="388" r="4" fill="#c43a83"/><circle cx="328" cy="388" r="4" fill="#d9c02f"/><circle cx="342" cy="388" r="4" fill="#0c1210"/></g>
+    </svg>
+  </div>
+  <div class="hero-foot"><span>Independent design studio</span><span>Taking commissions for 2027</span></div>
+</section>
+
+<section class="sec" id="work">
+  <div class="wrap">
+    <div class="head"><h2>Selected work</h2><p>Four projects across identity, packaging and print.</p></div>
+    <div class="grid">
+      <article class="t1"><div class="frame"><div class="art a1"></div></div><h3>Maison Aurel</h3><p>Visual identity, 2026</p></article>
+      <article class="t2"><div class="frame"><div class="art a2"></div></div><h3>Noor Perfumery</h3><p>Packaging, 2026</p></article>
+      <article class="t3"><div class="frame"><div class="art a3"></div></div><h3>The Quarterly</h3><p>Editorial print, 2025</p></article>
+      <article class="t4"><div class="frame"><div class="art a4"></div></div><h3>Halden Studio</h3><p>Brand system, 2025</p></article>
+    </div>
+  </div>
+</section>
+
+<section class="sec line" id="services">
+  <div class="wrap split">
+    <h2>What I make</h2>
+    <ul class="svc">
+      <li><h3>Visual identity</h3><p>Logo, typography, colour and a guideline your team can actually use.</p></li>
+      <li><h3>Branding</h3><p>Naming, positioning and the visual language that carries a brand across every touchpoint.</p></li>
+      <li><h3>Print and packaging</h3><p>Brochures, books, stationery and packaging, prepared for press and checked on paper.</p></li>
+      <li><h3>Graphic design and art direction</h3><p>Posters, campaigns and social content with one consistent point of view.</p></li>
+    </ul>
+  </div>
+</section>
+
+<section class="sec line" id="studio">
+  <div class="wrap split">
+    <h2>One designer, start to finish.</h2>
+    <div class="about">
+      <p class="lead">Shehab Designer is a one-person studio. You talk to the person doing the work, and the work gets the attention a larger team would divide.</p>
+      <h3>Print first</h3><p>Everything is tested on paper, at real size, before it is approved on screen.</p>
+      <h3>Fewer decisions, better made</h3><p>Each project gets a small set of strong options instead of a wall of variations.</p>
+      <h3>Direct</h3><p>One conversation from the first call to the final files.</p>
+    </div>
+  </div>
+</section>
+
+<section class="sec contact" id="contact">
+  <div class="wrap">
+    <h2>Have a project in mind?</h2>
+    <p>Send a short note about what you are making, who it is for and when you need it.</p>
+    <a class="mail" href="mailto:hello@shehabdesigner.com">hello@shehabdesigner.com</a>
+  </div>
+</section>
+</main>
+
+<footer class="ft">
+  <div class="wrap"><span>&copy; <span id="yr">2026</span> Shehab Designer</span><a href="#top">Back to top</a></div>
+</footer>
+<script src="js/main.js"></script>
+</body>
+</html>
+
+(() => {
+  const header = document.getElementById('hd');
+  const menu = document.getElementById('menu');
+  const year = document.getElementById('yr');
+  const onScroll = () => header.classList.toggle('scrolled', window.scrollY > 40);
+  const setMenu = (open) => {
+    document.body.classList.toggle('open', open);
+    menu.setAttribute('aria-expanded', String(open));
+    menu.textContent = open ? 'Close' : 'Menu';
+  };
+  onScroll();
+  window.addEventListener('scroll', onScroll, { passive: true });
+  menu.addEventListener('click', () => setMenu(!document.body.classList.contains('open')));
+  document.querySelectorAll('#nav a').forEach((a) => a.addEventListener('click', () => setMenu(false)));
+  window.addEventListener('keydown', (e) => { if (e.key === 'Escape') setMenu(false); });
+  if (year) year.textContent = new Date().getFullYear();
+})();
+
+# Shehab Designer
+
+Static site: plain HTML, CSS and JavaScript. No build step.
+
+## Publish on GitHub Pages
+1. Create a repository and upload everything in this folder (keep `.nojekyll`).
+2. Settings > Pages > Source: "Deploy from a branch", branch `main`, folder `/ (root)`.
+3. The site goes live at `https://<username>.github.io/<repo>/`.
+   Name the repo `<username>.github.io` to publish at the root, which also makes the `404.html` links work.
+
+## Replace before launch
+- Email address in `index.html` (`#contact`).
+- Project names and captions in `#work` are placeholders. To use real images, replace the `.art` div inside each `.frame` with an `<img>` (`width`, `height`, `alt`, `loading="lazy"`).
+- Add a `favicon.ico` and, if you like, Open Graph tags in the `<head>`.
+
+:root{--ink:#0c1210;--bottle:#10241e;--porcelain:#ecedea;--silver:#b8bdb9;--mist:#dadbd5;--champ:#c2aa84;--mute:#5d6762;--sans:"Jost","Helvetica Neue",Arial,sans-serif;--serif:"Newsreader",Georgia,serif;--pad:clamp(1.25rem,5vw,4.5rem);--ease:cubic-bezier(.2,.7,.2,1)}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--porcelain);color:var(--ink);font:400 1.125rem/1.7 var(--serif);-webkit-font-smoothing:antialiased}
+body.open{overflow:hidden}
+a{color:inherit;text-decoration:none}ul{list-style:none}
+:focus-visible{outline:2px solid var(--champ);outline-offset:4px}
+.skip{position:absolute;left:-9999px}.skip:focus{left:1rem;top:1rem;z-index:99;background:var(--porcelain);padding:.6rem 1rem}
+.wrap{max-width:92rem;margin-inline:auto;padding-inline:var(--pad)}
+h1,h2,h3,.logo,nav,.btn,.tlink,.hero-foot,.mail,.ft{font-family:var(--sans)}
+h1,h2{font-weight:300;letter-spacing:-.025em;line-height:1.04}
+h2{font-size:clamp(2.25rem,4.8vw,4rem)}
+h3{font-weight:400;font-size:1.25rem;letter-spacing:-.005em;line-height:1.3}
+.sec{padding-block:clamp(5rem,12vw,10rem)}
+.line{border-top:1px solid rgba(12,18,16,.14)}
+
+/* header */
+.hd{position:fixed;inset:0 0 auto;z-index:50;color:var(--porcelain);transition:background .5s var(--ease),color .5s var(--ease)}
+.hd.scrolled{background:rgba(236,237,234,.92);color:var(--ink);-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);box-shadow:0 1px 0 rgba(12,18,16,.1)}
+.hd .wrap{display:flex;align-items:center;justify-content:space-between;height:4.5rem}
+.logo{font-size:1.2rem;letter-spacing:.01em}
+nav ul{display:flex;gap:2.5rem;font-size:.95rem}
+nav a{position:relative;padding-block:.4rem}
+nav a::after{content:"";position:absolute;left:0;bottom:0;width:100%;height:1px;background:currentColor;transform:scaleX(0);transform-origin:left;transition:transform .5s var(--ease)}
+nav a:hover::after{transform:scaleX(1)}
+.menu{display:none;background:none;border:0;color:inherit;font:400 .95rem var(--sans);cursor:pointer;padding:.5rem 0}
+
+/* hero */
+.hero{min-height:100svh;background:var(--bottle);color:var(--porcelain);display:flex;align-items:center;position:relative;overflow:hidden;padding-block:8rem 6rem}
+.hero .wrap{display:grid;grid-template-columns:1.15fr .85fr;gap:3rem;align-items:center;width:100%}
+.hero h1{font-size:clamp(3.25rem,8vw,7.75rem);margin-bottom:2rem}
+.ln{display:block;overflow:hidden;padding-bottom:.08em}.ln>span{display:block}
+.hero p{max-width:29rem;color:rgba(236,237,234,.74);font-size:1.2rem}
+.cta{display:flex;flex-wrap:wrap;gap:1.25rem 2rem;align-items:center;margin-top:2.75rem;font-size:1rem}
+.btn{display:inline-block;padding:1rem 2rem;border:1px solid var(--champ);transition:background .4s var(--ease),color .4s var(--ease)}
+.btn:hover{background:var(--champ);color:var(--bottle)}
+.tlink{border-bottom:1px solid rgba(236,237,234,.4);padding-bottom:.15rem;transition:border-color .4s}
+.tlink:hover{border-color:var(--champ)}
+.dial{width:100%;max-width:34rem;justify-self:end;overflow:visible}
+.dial *{fill:none;stroke:var(--porcelain);stroke-width:.7;opacity:.55}
+.dial .tk{stroke-width:7;stroke-dasharray:.12 .88;opacity:.4}
+.dial .tk.major{stroke-width:12;stroke-dasharray:.03 .97;opacity:.7}
+.dial .sweep *{stroke:var(--champ);opacity:1;stroke-width:1}
+.dial .sweep circle,.dial .hub{fill:var(--champ);stroke:none;opacity:1}
+.dial .bar circle{stroke:var(--porcelain);stroke-width:.5;opacity:.9}
+.hero-foot{position:absolute;inset:auto 0 1.75rem;display:flex;justify-content:space-between;padding-inline:var(--pad);font-size:.9rem;color:rgba(236,237,234,.6)}
+
+/* the one orchestrated moment: dial draws, then the sweep begins */
+@media (prefers-reduced-motion:no-preference){
+  .ln>span{animation:up 1.1s var(--ease) both}.ln:nth-child(2)>span{animation-delay:.15s}
+  .hero p,.cta{animation:fade 1.2s ease .7s both}
+  .dr{stroke-dasharray:1;animation:draw 2.6s var(--ease) both}
+  .dr:nth-of-type(n+2){animation-delay:.2s}
+  .tk,.bar{animation:fade 1.6s ease 1.6s both}
+  .sweep{animation:fade 1s ease 2.2s both,spin 120s linear 2.2s infinite}
+  .art{transition:transform 1.1s var(--ease)}
+  article:hover .art{transform:scale(1.035)}
+}
+@keyframes up{from{transform:translateY(105%)}}
+@keyframes fade{from{opacity:0}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+.dial .sweep{transform-origin:200px 200px}
+
+/* work */
+.head{display:flex;justify-content:space-between;align-items:end;gap:2rem;margin-bottom:clamp(2.5rem,6vw,5rem)}
+.head p{color:var(--mute);max-width:20rem}
+.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:clamp(3rem,5vw,4.5rem) clamp(1rem,2vw,2rem);align-items:start}
+.t1,.t4{grid-column:span 7}.t2,.t3{grid-column:span 5}
+.frame{overflow:hidden;margin-bottom:1rem}
+.t1 .frame,.t4 .frame{aspect-ratio:4/3}.t2 .frame,.t3 .frame{aspect-ratio:4/5}
+.art{position:relative;width:100%;height:100%}
+.art::before,.art::after{content:"";position:absolute}
+.a1{background:var(--bottle)}
+.a1::before{left:50%;top:50%;width:52%;aspect-ratio:1;border:1px solid var(--champ);border-radius:50%;transform:translate(-50%,-50%)}
+.a1::after{left:50%;top:12%;width:1px;height:76%;background:var(--champ);opacity:.5}
+.a2{background:var(--silver)}
+.a2::before{left:18%;bottom:0;width:38%;height:64%;background:var(--ink)}
+.a2::after{right:16%;top:14%;width:14%;aspect-ratio:1;background:var(--porcelain)}
+.a3{background:var(--ink)}
+.a3::after{content:"Aa";left:50%;top:50%;transform:translate(-50%,-50%);font:300 clamp(5rem,13vw,11rem)/1 var(--sans);color:var(--porcelain);letter-spacing:-.04em}
+.a4{background:var(--mist)}
+.a4::before{left:12%;top:22%;width:62%;height:56%;background:linear-gradient(var(--bottle) 0 0) 0 0/100% 18% no-repeat,linear-gradient(var(--bottle) 0 0) 0 50%/68% 18% no-repeat,linear-gradient(var(--bottle) 0 0) 0 100%/38% 18% no-repeat}
+article p{color:var(--mute);font-size:1rem}
+
+/* services + studio */
+.split{display:grid;grid-template-columns:4fr 8fr;gap:3rem}
+.split>h2{align-self:start;position:sticky;top:7rem;max-width:12ch}
+.svc li{display:grid;grid-template-columns:1fr 1.2fr;gap:1rem 2rem;padding-block:2rem;border-top:1px solid rgba(12,18,16,.14)}
+.svc li:first-child{border-top:0;padding-top:.5rem}
+.svc p,.about p{color:var(--mute)}
+.about{max-width:38rem}
+.about .lead{color:var(--ink);font-size:clamp(1.35rem,2.2vw,1.75rem);line-height:1.5;margin-bottom:3rem}
+.about h3{margin-top:1.75rem}
+
+/* contact + footer */
+.contact{background:var(--bottle);color:var(--porcelain)}
+.contact h2{font-size:clamp(2.5rem,6.5vw,6rem);max-width:14ch}
+.contact p{color:rgba(236,237,234,.72);max-width:28rem;margin-block:1.75rem 3rem}
+.mail{display:inline-block;font-weight:300;font-size:clamp(1.4rem,4.2vw,3.5rem);letter-spacing:-.02em;border-bottom:1px solid var(--champ);padding-bottom:.25rem;transition:color .4s}
+.mail:hover{color:var(--champ)}
+.ft{background:var(--bottle);color:rgba(236,237,234,.6);font-size:.9rem;border-top:1px solid rgba(236,237,234,.14)}
+.ft .wrap{display:flex;justify-content:space-between;padding-block:1.5rem}
+.ft a:hover{color:var(--champ)}
+
+/* 404 */
+.nf{min-height:100svh;display:grid;place-content:start;gap:1.5rem;padding:var(--pad);background:var(--bottle);color:var(--porcelain)}
+.nf h1{font-size:clamp(3rem,8vw,7rem)}.nf a{border-bottom:1px solid var(--champ);justify-self:start;font-family:var(--sans)}
+
+@media (max-width:900px){
+  .hero .wrap{grid-template-columns:1fr}
+  .dial{max-width:22rem;justify-self:center}
+  .split{grid-template-columns:1fr}.split>h2{position:static}
+}
+@media (max-width:760px){
+  .menu{display:block;position:relative;z-index:2}
+  nav{display:none;position:fixed;inset:0;background:var(--bottle);align-items:center;justify-content:center}
+  nav ul{flex-direction:column;gap:1.5rem;font-size:2rem;font-weight:300;text-align:center}
+  .open nav{display:flex}
+  .open .hd{background:transparent;color:var(--porcelain);box-shadow:none;-webkit-backdrop-filter:none;backdrop-filter:none}
+  .t1,.t2,.t3,.t4{grid-column:1/-1}
+  .head{flex-direction:column;align-items:start;gap:1rem}
+  .svc li{grid-template-columns:1fr}
+  .hero-foot{flex-direction:column;gap:.25rem}
+}
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Page not found | Shehab Designer</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<main class="nf">
+  <h1>This page doesn't exist.</h1>
+  <p>The link may be old or mistyped.</p>
+  <a href="/">Go to the homepage</a>
+</main>
+</body>
+</html>
